@@ -1,0 +1,7 @@
+D:\C#\PrintRequest\bin\Debug\PrintRequest.exe.config
+D:\C#\PrintRequest\bin\Debug\PrintRequest.exe
+D:\C#\PrintRequest\bin\Debug\PrintRequest.pdb
+D:\C#\PrintRequest\obj\Debug\PrintRequest.csproj.AssemblyReference.cache
+D:\C#\PrintRequest\obj\Debug\PrintRequest.csproj.CoreCompileInputs.cache
+D:\C#\PrintRequest\obj\Debug\PrintRequest.exe
+D:\C#\PrintRequest\obj\Debug\PrintRequest.pdb
