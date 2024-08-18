@@ -16,7 +16,7 @@ namespace PrintRequest
     {
         static void Main(string[] args)
         {
-           
+           //Interpolation
             PrinterSettings.StringCollection a = System.Drawing.Printing.PrinterSettings.InstalledPrinters;
             Console.WriteLine(a[2]);
             foreach(string printerName1 in a)
